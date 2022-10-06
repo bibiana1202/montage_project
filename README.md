@@ -1,7 +1,13 @@
 # montage_project
 이미지 분류 모델 구축하기
 https://www.notion.so/wew1202/3-fd4156cf77c844e5a7d12a8e064ebdee
+### 주제 및 선정 이유
 
+들어오는 손님 안면 데이터를 이용하여
+
+나이,성별,헤어/ 얼굴형,눈썹
+
+분류 모델을 만들자. →나이,성별,헤어를 이용한 마케팅 분석,마케팅 자료 사용
 
 
 - montage_preproess.ipynb : 전처리
