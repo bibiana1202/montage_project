@@ -1,6 +1,8 @@
 # montage_project
 이미지 분류 모델 구축하기
-https://www.notion.so/wew1202/3-fd4156cf77c844e5a7d12a8e064ebdee
+  <a href="https://www.notion.so/wew1202/3-fd4156cf77c844e5a7d12a8e064ebdee">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+
 ### 주제 및 선정 이유
 
 들어오는 손님 안면 데이터를 이용하여
