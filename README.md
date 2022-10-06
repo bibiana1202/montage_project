@@ -1,7 +1,7 @@
 # montage_project
 이미지 분류 모델 구축하기
 
-  <a href="https://www.notion.so/wew1202/3-fd4156cf77c844e5a7d12a8e064ebdee">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+  <a href="https://www.notion.so/wew1202/2-62a3b8c8f5aa486facdd88e5c2a79dd6">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
 ### 주제 및 선정 이유
